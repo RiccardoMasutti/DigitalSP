@@ -17,5 +17,8 @@ Here's a thread in which I recommend a series of products and services to use:
 - Bisq as Cryptocurrency decentralized exchange https://bisq.network/
 - Sideshift as NO-KYC cross-chain swaps https://bit.ly/sideshift-ai
 - HodlHodl as decentralized lending https://bit.ly/hodlhodl-com
-- Relai as NO-KYC Bitcoin DCA (Dollar Cost Average) https://bit.ly/relaich
+- Relai as NO-KYC Bitcoin DCA (Dollar Cost Average) https://bit.ly/relaich (*)
 - Wasabi Wallet as Bitcoin privacy-oriented software wallet https://wasabiwallet.io/
+
+## Comments
+(*) The application is closed source
