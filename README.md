@@ -9,7 +9,7 @@ Here's a thread in which I recommend a series of products and services to use:
 - Nitrokey as Open Source 2 Factor Authentication: https://bit.ly/nitrokey-2fa
 - CryptoSteel for Bitcoin seed backup: https://bit.ly/cryptosteelcapsule 
 - ColdCard as Bitcoin-only Hardware Wallet: https://bit.ly/coldcard 
-- KeystoneWallet and Bitbox as Multicoin Hardware Wallet: https://bit.ly/cobovaulthw  | https://bit.ly/bitboxhw 
+- KeystoneWallet and Bitbox as Multicoin Hardware Wallet: https://bit.ly/keystonewallet | https://bit.ly/bitboxhw 
 - Mullvad as VPN https://mullvad.net/en/
 - Firefox as daily browser https://www.mozilla.org/firefox/download
 - Tor Browser as Cryptocurrency browser https://www.torproject.org
